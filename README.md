@@ -31,8 +31,18 @@ Assignment 2
 ![DELICA, DIENNELEY LLYDEN M_CSE-ASSIGNMENT2-2](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/160561681/fda07170-2713-4e24-b1d2-3d98598c4599)
 ![DELICA, DIENNELEY LLYDEN M_CSE-ASSIGNMENT2-3](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/160561681/53e13025-638f-4de5-8042-0e3beaf17e15)
 
-
-
+Pentinio, Danah Gaizel A.
+Assignment 1
+![Assignment 1_1](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/9e46b75c-e9b4-4f41-947a-2a8d5166800f)
+![Assignment 1_2](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/7e72b2fc-d218-48b8-a69d-23858d610ca6)
+![Assignment 1_3](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/2980f4c1-f532-4b50-80c7-daa37d1942ea)
+![Assignment 1_4](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/b16aaea6-e095-40d2-ba14-e66f53a63aee)
+![Assignment 1_5](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/3f91c000-7fae-4b65-9655-0924a691ca44)
+![Assignment 1_6](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/caf77074-f1ee-4e6e-b7e5-c1b5b3324ba3)
+Assignment 2
+![Assignment 2_1](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/2d5bb804-f268-4998-a7bd-8dd370ab5040)
+![Assignment 2_2](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/f7096496-1af9-40a7-bf70-e706f0fb1c7c)
+![Assignment 2_3](https://github.com/PhilipArago/CSE_Laplace-InverseLaplace_ME_4203_Group11_2024/assets/161391946/d25ef7ab-e9c9-402c-b6ea-3f95c6038039)
 
 
 
